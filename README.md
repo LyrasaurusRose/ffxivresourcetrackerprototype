@@ -9,7 +9,7 @@ Because of this, I figured that a pretty straight forward program would be to cr
 I ran a bit short on time with my prototype, with my schooling and such, but future work will hopefully bring my project to completion with adding a timer function that will ring when it gets close to the spawning time of the item.
 
 # Software Demo Video
-[Software Demo Video] ()
+[Software Demo Video](https://streamable.com/0b9k4t)
 
 # Development Environment
 - Visual Studio 2019
